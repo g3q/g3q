@@ -19,4 +19,4 @@ I have been modding, coding and hacking for over 9 years now, it has been my big
 
 
 
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=loctangX&show_icons=true&theme=radical)
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=geq&show_icons=true&theme=radical)
