@@ -1,5 +1,5 @@
 ### **WHO AM I**
-I am a video game modder who became so obsessed with computers that he became a white hat computer hacker, how fun.
+I am a security guard, crypto lord, technophile & video game enthusiast. I also do cyber security along with my security job, I'm looking to go to collage and get a C|EH certification.
 
 ### **9+ YEARS OF EXPERIENCE**
 I have been modding, coding and hacking for over 9 years now, it has been my biggest hobby and interest and I wish to put my abilities in the best place I can. I have helped several celebrities and companies secure their websites, networks and media accounts. I started by learning basic self-XSS, and quickly moved towards learning the SQL Language as I wished to work with databases. I now do my own work, after working with many big teams and groups which shall not be named anymore but I freelance for penetration testing as it still gives me a good way to make money, other wise I will use hackerone.com for bug bounties in my spare time.
